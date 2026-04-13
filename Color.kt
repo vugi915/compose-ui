@@ -1,0 +1,25 @@
+package com.vugiapps.drawtosvg.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Black = Color(color = 0xFF050608)
+val Onyx = Color(color = 0xFF0B0C0E)
+val ShadowGrey = Color(color = 0xFF282829)
+val IronGrey = Color(color = 0xFF47484a)
+val GreyOne = Color(color = 0xFF7b7c7e)
+val GreyTwo = Color(color = 0xFF828384)
+val AlabasterGreyOne = Color(color = 0xFFd6d7d9)
+val AlabasterGreyTwo = Color(color = 0xFFdfe0e2)
+val GhostWhite = Color(color = 0xFFdfe0e2)
+val Platinum = Color(color = 0xFFdfe0e2)
+val DarkStateGrey = Color(color = 0xFF3dcc5c)
+val MutedTealOne = Color(color = 0xFF71b297)
+val MutedTealTwo = Color(color = 0xFF90a390)
+val TropicalTeal = Color(color = 0xFF679e9e)
+val DustyTaupe = Color(color = 0xFFa38879)
+val DrySage = Color(color = 0xFFbbc79f)
+val PearlAqua = Color(color = 0xFF91bebe)
+val GoldenSand = Color(color = 0xFFbeba5a)
+val RosyTaupe = Color(color = 0xFFcd928d)
+val CinammonWood = Color(color = 0xFFbe7b5a)
+val PacificBlue = Color(color = 0xFF5aa1be)
