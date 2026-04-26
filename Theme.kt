@@ -1,4 +1,4 @@
-package com.vugiapps.drawtosvg.ui.theme
+package com.*.*.ui.theme
 
 import android.app.Activity
 import android.os.Build
