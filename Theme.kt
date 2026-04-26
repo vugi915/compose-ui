@@ -270,7 +270,7 @@ object Theme {
 }
 
 @Composable
-fun DrawtosvgTheme(
+fun AppTheme(
     darkTheme: Boolean = false,
     themeType: Theme.ThemeType = Theme.ThemeType.STANDARD,
     content: @Composable () -> Unit
