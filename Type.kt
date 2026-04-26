@@ -7,7 +7,7 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.LineBreak
 import androidx.compose.ui.unit.sp
-import com.vugiapps.drawtosvg.R
+import com.*.*.R
 
 val Typography = Typography(
     displayLarge = TextStyle(
